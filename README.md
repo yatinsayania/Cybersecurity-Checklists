@@ -30,3 +30,27 @@ Practical cybersecurity checklists, templates, policies, and implementation guid
 - NIST Cybersecurity Framework
 - Microsoft Security Baselines
 - OWASP
+
+
+Cybersecurity-Checklists/
+│
+├── CIS-Benchmarks/
+├── SOC2/
+├── NIST-CSF/
+├── Active-Directory-Security/
+├── Microsoft365-Security/
+├── Vulnerability-Management/
+├── Incident-Response/
+├── Security-Awareness/
+├── Security-KPIs/
+└── Audit-Evidence-Examples/
+
+As an IT Manager, I would prioritize adding:
+
+ISO 27001 Controls
+Active Directory Security Checklist
+Microsoft 365 Security Checklist
+Firewall Audit Checklist
+Server Hardening Checklist
+Incident Response Templates
+Risk Assessment Templates
